@@ -9,6 +9,9 @@
       "filetree": "filetree/96a350c3dd88e5aad8917cbe33541ac68282d832.nq.gz",
       "blobs": [
         "blob/17c1506469a385dd6209c424196d9843755351c7.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/96a350c3dd88e5aad8917cbe33541ac68282d832/chunk-001.nq.gz"
       ]
     }
   ],
