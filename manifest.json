@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "gh-migration",
+  "versions": [
+    {
+      "commit": "96a350c3dd88e5aad8917cbe33541ac68282d832",
+      "parsed_at": "2026-10-11T07:57:00.305858+00:00",
+      "filetree": "filetree/96a350c3dd88e5aad8917cbe33541ac68282d832.nq.gz",
+      "blobs": [
+        "blob/17c1506469a385dd6209c424196d9843755351c7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
